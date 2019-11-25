@@ -15,4 +15,4 @@ install:
   - pip install my-pack-zach-zemo
 
 script:
-  - python3 wine-graphs.py
+  - python3 wine_graphs.py
